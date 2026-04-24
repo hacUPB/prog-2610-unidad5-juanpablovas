@@ -1,0 +1,7 @@
+Nueva entrada de registroC:\Users\ESTUDIANTES\AppData\Local\Microsoft\WindowsApps\python3.13.exe c:/Users/ESTUDIANTES/Documents/Programación_2026/prog-2610-unidad5-juanpablovas/Archivos_de_Texto/Ejercicio2.pyEdad: 18Estatura: 1.8Hola mundoEdad: 18
+Estatura: 1.8texto
+Edad: 18
+Estatura: 1.97
+Hola
+Edad: 45
+Estatura: 34.0
