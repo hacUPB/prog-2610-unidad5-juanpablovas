@@ -42,3 +42,7 @@ for i in range(5):
     mi_archivo.write(f"\n{x}")
     
 mi_archivo.close()
+
+
+Una ruta absoluta es cuando yo puedo observar la carpeta desde la unidad de almacenamiento
+ruta relativa es desde donde estoy o la raiz del repositorio en visual studio

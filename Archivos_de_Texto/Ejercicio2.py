@@ -3,7 +3,12 @@ texto = input("Ingresa una frase: ")
 edad = int(input("Ingresa tu edad: "))
 estatura = float(input("Ingresa tu estatura: "))
 archivo.write(f"{texto}\n")
+
 archivo.write(f"Edad: {edad}\n")
 archivo.write(f"Estatura: {estatura}\n")
+
+# Hay otra forma de hacerlo
+# archivo.write(str(edad)+"\n")
+# archivo.write(str(statura)+"\n")
 
 archivo.close()
