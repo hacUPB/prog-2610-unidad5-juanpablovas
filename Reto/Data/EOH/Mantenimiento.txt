@@ -1,0 +1,60 @@
+[05:10] Inicio de inspección preventiva pista principal 02/20
+[05:18] Verificación de luces de borde completada sin novedades
+[05:25] Revisión de sistema de drenaje plataforma norte
+[05:32] Personal técnico inspecciona señalización horizontal taxiway A
+[05:40] Revisión de frenos de estacionamiento vehículo de abastecimiento
+[05:48] Mantenimiento preventivo radio VHF torre de control
+[05:55] SATENA 9R8801 reporta vibración leve en rueda delantera antes de salida
+[06:02] Equipo de mantenimiento inspecciona tren delantero aeronave 9R8801
+[06:10] Ajuste realizado sin afectar itinerario
+[06:18] Revisión de luces de aproximación pista 20
+[06:26] Se detecta acumulación de agua cerca de plataforma secundaria
+[06:33] Personal de limpieza inicia drenaje preventivo
+[06:40] HK5123 ambulancia aérea solicita revisión rápida de presión hidráulica
+[06:47] Técnicos confirman parámetros normales
+[06:55] Revisión de extintores móviles en plataforma principal
+[07:03] Inspección de neumáticos aeronave VE9020 completada
+[07:10] SATENA 9R8820 reporta ruido anormal en sistema de ventilación
+[07:18] Equipo técnico realiza diagnóstico preventivo
+[07:24] Filtro de ventilación reemplazado correctamente
+[07:32] Inspección rutinaria sistema eléctrico terminal norte
+[07:40] Verificación de combustible de respaldo planta eléctrica
+[07:48] Personal reporta desgaste menor en pintura de señalización taxiway B
+[07:55] Programación de repintado para turno nocturno
+[08:02] Revisión estructural rápida aeronave LT3402 durante escala
+[08:09] Sin novedades estructurales detectadas
+[08:17] Torre informa intermitencia breve en comunicación de plataforma
+[08:24] Técnicos revisan antena de comunicaciones secundarias
+[08:31] Sistema restablecido correctamente
+[08:38] HK2210 aeronave de entrenamiento reporta vibración leve en cabina
+[08:46] Inspección preventiva realizada tras aterrizaje
+[08:53] Tornillo de panel interno ajustado
+[09:00] Inicio de limpieza técnica pista principal
+[09:08] Retiro de residuos menores encontrados cerca de borde de pista
+[09:15] VE9901 solicita revisión de sensor de temperatura exterior
+[09:23] Sensor recalibrado por personal técnico
+[09:30] Revisión de compresores de aire terminal de pasajeros
+[09:38] Sistema funcionando dentro de parámetros normales
+[09:45] Inspección preventiva luces taxiway C
+[09:52] Sustitución de una lámpara LED defectuosa
+[10:00] 9R8833 reporta demora por revisión de compartimiento de carga
+[10:07] Cerradura de compartimiento ajustada correctamente
+[10:15] Vehículo de remolque presenta falla menor de batería
+[10:21] Batería reemplazada y vehículo operativo nuevamente
+[10:28] Revisión general sistema CCTV zona de plataforma
+[10:35] Cámaras funcionando correctamente
+[10:42] HK7788 reporta indicador irregular de presión de aceite
+[10:50] Técnicos verifican sensor y descartan falla mecánica
+[10:58] Revisión preventiva de conos y equipos de señalización
+[11:05] Inventario de herramientas completado sin faltantes
+[11:12] VE9044 presenta desgaste leve en neumático derecho
+[11:20] Cambio preventivo realizado antes del despegue
+[11:28] Inspección de puertas automáticas terminal principal
+[11:35] Ajuste de sensores de apertura completado
+[11:42] HK6100 ambulancia aérea solicita revisión rápida de iluminación interna
+[11:48] Sistema eléctrico revisado sin anomalías
+[11:55] Personal técnico inicia mantenimiento preventivo puerta 2
+[12:02] Lubricación de mecanismos de embarque completada
+[12:10] Inspección final de pista principal antes del mediodía
+[12:18] Operaciones de mantenimiento concluyen sin novedades críticas
+[12:25] Cierre de registro técnico turno mañana
