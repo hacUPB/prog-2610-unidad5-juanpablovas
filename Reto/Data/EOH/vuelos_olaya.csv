@@ -1,0 +1,15 @@
+tipo,aerolinea,vuelo,fecha,hora,origen_destino,estado,puerta,retraso_min
+Salida,SATENA,9R8801,2026-05-08,05:49,Quibdó,A tiempo,3,0
+Llegada,Clic,VE9020,2026-05-08,06:03,Bogotá,Aterrizado,2,0
+Salida,Clic,VE7710,2026-05-08,06:38,Bahía Solano,Retrasado,1,15
+Llegada,LATAM Colombia,LT3402,2026-05-08,06:55,Cali,Aterrizado,4,5
+Salida,SATENA,9R8820,2026-05-08,07:05,Apartadó,A tiempo,2,0
+Llegada,Avianca Regional,AV4810,2026-05-08,08:01,Pereira,Aterrizado,5,3
+Salida,Clic,VE9031,2026-05-08,07:35,Montería,A tiempo,1,0
+Llegada,Clic,VE9901,2026-05-08,08:49,Bogotá,Aterrizado,3,2
+Salida,SATENA,9R8833,2026-05-08,09:08,Bahía Solano,Retrasado,2,12
+Llegada,Privado,HK3321,2026-05-08,09:42,Cartagena,Aterrizado,6,0
+Salida,Clic,VE7715,2026-05-08,10:07,Rionegro,A tiempo,1,0
+Llegada,Privado,HK7788,2026-05-08,10:36,Cartago,Aterrizado,4,7
+Salida,Clic,VE9044,2026-05-08,11:12,Nuquí,A tiempo,2,0
+Llegada,Ambulancia Aérea,HK6100,2026-05-08,12:03,Montería,Prioritario,5,0

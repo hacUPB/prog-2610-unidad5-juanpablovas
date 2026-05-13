@@ -33,6 +33,33 @@ Cuando se tengan listados los archivos, el usuario podrá elegir el archivo para
 
 ![Idea de explorador de directorio](./Imagenes/DiagramaReto_explorador.jpg)
 
+### Procesamiento de textos
+1) Se le muestran al usuario los posibles archivos .txt en la carpeta del aeropuerto seleccionado enumerados para hacer un submenú. Se le solicita que selecione el archivo que desea procesar.
+
+2) Una vez seleccionado el archivo se le muestra un submenú al de procesamiento que contiene:
+
+        - Muestra el contenido
+        - Dar a conocer la cantidad de lineas
+        - Dar a conocer la cantidad de palabras
+        - Top 5 de palabras repetidas
+        - Menú principal
+
+3) Antes de empezar con el desarrollo del submenú anterior, se abre el archivo selecionado en modo lectura y se almacena todo el contenido del texto en una variable especifica para el analisis del documento.
+
+4) La primera opcion del submenú imprime todo el documento tal cual como es.
+
+5) La segunda opción muestra la cantidad de lineas que contiene el documento
+
+6) La tercera opción muestra la cantidad de palabras que contiene el documento
+
+7) La cuarta opción da el top 5 de las palabras repetidas.
+
+8) Vuelta al menú principal.
+
+
+![Idea de procesamiento de textos](./Imagenes/Procesamiento_de_texto.jpg)
+
+
 
 
 
