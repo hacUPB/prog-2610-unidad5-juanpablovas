@@ -1,0 +1,71 @@
+[05:00] Inicio de operaciones Aeropuerto Olaya Herrera
+[05:12] Verificación meteorológica completada
+[05:18] Visibilidad reportada en 8 km
+[05:25] Encendido de luces de pista principal
+[05:32] Inspección de plataforma finalizada sin novedades
+[05:40] SATENA 9R8801 autorizado para encendido de motores
+[05:45] SATENA 9R8801 autorizado para rodaje hacia pista 02
+[05:49] SATENA 9R8801 despegó hacia Quibdó
+[05:57] Clic VE9020 reporta aproximación desde Bogotá
+[06:03] VE9020 aterrizó sin novedades en pista 20
+[06:07] Ambulancia aérea HK5123 solicita prioridad de aterrizaje
+[06:10] HK5123 autorizado para aproximación inmediata
+[06:14] HK5123 aterrizó correctamente
+[06:18] Personal de plataforma inicia descarga médica
+[06:25] Se registra llovizna ligera sobre terminal aérea
+[06:31] Disminución temporal de visibilidad
+[06:38] Clic VE7710 presenta retraso operativo de 15 minutos
+[06:44] Inspección de pista por presencia de aves
+[06:48] Pista despejada y operativa
+[06:55] LATAM Colombia LT3402 aterrizó desde Cali
+[07:02] SATENA 9R8820 solicita autorización de salida
+[07:05] SATENA 9R8820 despegó hacia Apartadó
+[07:11] Vehículo de abastecimiento autorizado en plataforma norte
+[07:18] Aeronave privada HK4451 solicita permiso de parqueo
+[07:24] Torre autoriza ingreso a posición 4
+[07:30] Incremento de tráfico aéreo en hora pico
+[07:35] VE9031 autorizado para despegue hacia Montería
+[07:42] Retraso reportado por congestión en plataforma
+[07:48] Se activa protocolo preventivo por tormenta cercana
+[07:55] Operaciones continúan bajo monitoreo meteorológico
+[08:01] Avianca Regional AV4810 aterrizó desde Pereira
+[08:07] Revisión rápida de iluminación de pista
+[08:13] Sistema de radio VHF funcionando correctamente
+[08:18] HK2210 solicita permiso de vuelo local
+[08:22] HK2210 despegó para entrenamiento aéreo
+[08:30] Se reporta viento cruzado moderado
+[08:36] Torre recomienda precaución en aterrizajes
+[08:44] VE9901 inicia aproximación instrumental
+[08:49] VE9901 aterrizó sin novedades
+[08:55] Personal técnico revisa señalización taxiway
+[09:03] SATENA 9R8833 autorizado para salida
+[09:08] 9R8833 despegó hacia Bahía Solano
+[09:15] Retraso operativo por reorganización de puertas
+[09:22] Plataforma principal alcanza ocupación máxima
+[09:30] Torre coordina secuencia de aterrizajes
+[09:37] HK3321 reporta turbulencia ligera en aproximación
+[09:42] HK3321 aterrizó correctamente
+[09:48] Finaliza episodio de lluvia moderada
+[09:55] Operaciones regresan a normalidad
+[10:03] VE7715 autorizado para despegue
+[10:07] VE7715 salió hacia Medellín-Rionegro
+[10:15] Revisión de rutina de comunicaciones aeronáuticas
+[10:22] SATENA reporta demora por carga de equipaje
+[10:30] Tráfico aéreo estable
+[10:36] HK7788 aterrizó procedente de Cartago
+[10:42] Vehículo no autorizado detectado cerca de plataforma
+[10:45] Seguridad aeroportuaria controla situación
+[10:52] Pista nuevamente declarada segura
+[11:00] Finaliza reporte parcial de operaciones matutinas
+[11:08] Clic VE9044 solicita autorización de salida
+[11:12] VE9044 despegó hacia Nuquí
+[11:20] Temperatura ambiente reportada en 24°C
+[11:28] Viento con dirección variable
+[11:35] HK9012 aterrizó desde Caucasia
+[11:42] Se inicia mantenimiento preventivo de puerta 2
+[11:50] Torre coordina prioridad para vuelo médico
+[11:57] HK6100 autorizado para aterrizaje prioritario
+[12:03] HK6100 aterrizó correctamente
+[12:10] Incremento de tráfico terrestre en terminal
+[12:18] Operaciones continúan sin novedades mayores
+[12:25] Fin de registro parcial del turno mañana

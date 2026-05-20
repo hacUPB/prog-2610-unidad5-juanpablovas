@@ -1,0 +1,55 @@
+[05:22] Presencia de aves detectada cerca de cabecera pista 02
+[05:27] Personal de control fauna realiza dispersión preventiva
+[05:41] Vehículo de abastecimiento ingresó a plataforma sin autorización inicial
+[05:44] Seguridad aeroportuaria corrige situación sin afectar operaciones
+[05:58] Retraso menor por congestión de equipaje en terminal regional
+[06:06] Pasajero reporta pérdida temporal de equipaje de mano
+[06:12] Equipaje localizado en sala de espera nacional
+[06:25] Llovizna reduce temporalmente la visibilidad operativa
+[06:31] Torre activa protocolo de monitoreo meteorológico
+[06:39] VE7710 presenta retraso operativo por revisión técnica preventiva
+[06:47] Operación normal restablecida tras inspección
+[07:02] HK5123 ambulancia aérea solicita prioridad por traslado médico urgente
+[07:06] Tráfico aéreo reorganizado para permitir aterrizaje prioritario
+[07:18] Reporte de derrame menor de combustible en plataforma norte
+[07:22] Equipo HAZMAT realiza limpieza preventiva
+[07:30] Operaciones continúan sin afectaciones
+[07:43] Pasajero intenta acceder a zona restringida sin autorización
+[07:46] Personal de seguridad controla situación
+[07:55] Tormenta eléctrica detectada a 15 km del aeropuerto
+[08:00] Se suspenden temporalmente operaciones de abastecimiento
+[08:11] VE9031 reporta turbulencia moderada durante aproximación
+[08:18] Aterrizaje realizado sin novedades
+[08:27] Falla momentánea en sistema secundario de comunicaciones
+[08:31] Comunicación restablecida tras reinicio técnico
+[08:42] Vehículo de mantenimiento bloquea parcialmente taxiway B
+[08:47] Ruta despejada en menos de cinco minutos
+[08:55] Retraso acumulado por congestión en plataforma principal
+[09:03] SATENA 9R8833 solicita tiempo adicional para embarque
+[09:08] Salida reprogramada con demora de 12 minutos
+[09:16] Objeto extraño detectado cerca del borde de pista
+[09:21] Equipo FOD realiza inspección y retiro seguro
+[09:33] HK3321 reporta viento cruzado fuerte durante aterrizaje
+[09:37] Maniobra completada sin incidentes
+[09:45] Corte eléctrico breve en zona administrativa
+[09:49] Planta de respaldo activada automáticamente
+[10:02] VE7715 presenta demora por reorganización de puertas
+[10:10] Pasajero requiere asistencia médica en sala de espera
+[10:15] Equipo médico aeroportuario atiende situación
+[10:24] Retraso menor por inspección adicional de equipaje
+[10:31] Seguridad finaliza procedimiento sin hallazgos
+[10:40] HK7788 reporta indicador irregular en panel de cabina
+[10:46] Aeronave enviada a revisión preventiva
+[10:55] Se detecta acumulación de agua en borde de plataforma
+[11:00] Personal de mantenimiento inicia drenaje inmediato
+[11:12] VE9044 retrasa embarque por ajuste técnico menor
+[11:18] Operación normal restablecida
+[11:26] Visitante intenta ingresar a plataforma sin acreditación
+[11:29] Acceso restringido por seguridad aeroportuaria
+[11:37] Demora temporal en entrega de combustible a aeronave regional
+[11:44] Suministro normalizado
+[11:52] Torre reporta saturación de tráfico aéreo en hora pico
+[11:58] Secuencia de despegues reorganizada
+[12:06] HK6100 ambulancia aérea recibe prioridad de aterrizaje
+[12:12] Operaciones ajustadas para corredor médico
+[12:20] Finaliza turno operacional con incidentes menores controlados
